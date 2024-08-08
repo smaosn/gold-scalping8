@@ -15,8 +15,8 @@ input double SlPercent = 0.5;
 input int Magic = 12345;
 
 input double TpPercent = 1.0;
-input double TslPercent = 0.2;
-input double TslTriggerPercent = 0.3;
+input double TslPercent = 0.0;
+input double TslTriggerPercent = 0.7;
 
 input int TimeCloseHour = 22;
 input int TimeCloseMin = 0;
